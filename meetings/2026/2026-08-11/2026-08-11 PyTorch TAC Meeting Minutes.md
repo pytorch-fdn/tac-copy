@@ -1,4 +1,10 @@
-
+---
+title: "2026"
+parent: Meetings
+has_children: true
+child_nav_order: reversed
+nav_order: 2026
+---
 
 ## PyTorch Foundation
 
