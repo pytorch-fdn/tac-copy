@@ -1,9 +1,3 @@
----
-title: "2026-10-13 TAC Meeting"
-parent: Meetings
-nav_order: 20261013
----
-
 ## PyTorch Foundation
 
 Minutes of the October 13, 2026 Technical Advisory Council Meeting
