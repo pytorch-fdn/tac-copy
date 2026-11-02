@@ -1,9 +1,8 @@
 ---
-title: "2026"
-parent: Meetings
-has_children: true
-child_nav_order: reversed
-nav_order: 2026
+title: "2026-08-11 TAC Meeting"
+parent: "2026"
+grand_parent: Meetings
+nav_order: 20260811
 ---
 
 ## PyTorch Foundation
