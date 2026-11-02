@@ -51,6 +51,12 @@ and updates from the Ecosystem Working Group.
 - [Learn how applications are reviewed](https://github.com/pytorch-fdn/ecosystem#how-applications-are-reviewed)
 - [Track applications](https://github.com/orgs/pytorch-fdn/projects/6/views/1)
 
+## Working Groups
+
+Explore PyTorch working groups and learn how to get involved.
+
+[Explore Working Groups](https://pytorch.org/working-groups/)
+
 ## PyTorch Landscape
 
 Explore the wider PyTorch ecosystem of projects and tools.
