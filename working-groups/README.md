@@ -1,7 +1,7 @@
 ---
-title: "Working Groups"
-has_children: true
-nav_order: 40
+title: "Multi-Cloud"
+parent: "Working Groups"
+nav_order: 4
 ---
 
 # PyTorch Foundation Working Groups
