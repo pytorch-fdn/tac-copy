@@ -3,24 +3,56 @@ title: Home
 nav_order: 1
 ---
 
-# {{ site.foundation_name }} Technical Advisory Council (TAC)
+# PyTorch Foundation Technical Advisory Council (TAC)
 
-This site hosts all the materials and resources for the {{ site.foundation_name }} TAC and it's Technical Projects and Working Groups. More details on the role of the TAC can be found [here]({% link process/tac_overview.md %}).
+This site brings together materials and resources for the
+PyTorch Foundation Technical Advisory Council.
 
-## TAC Members
+The TAC provides a forum for technical communication,
+leadership and collaboration across the Foundation.
 
-{%- include tacmembers.html -%}
+## TAC Members and Resources
 
-## {{ site.project_types | map: 'plural' |  array_to_sentence_string }} 
+Learn about the TAC and its members, and find links to
+meetings, presentations and community discussions.
 
-Projects are approved by TAC Members per the [project lifecycle guidelines]({% link process/lifecycle.md %}). You can learn more about hosting projects at {{ site.foundation_name }} and how to propose a project for inclusion as an {{ site.foundation_name }} Technical Project [here]({% link process/start_project.md %}).
+[View TAC members and resources](https://pytorch.org/tac/)
 
-Each of the {{ site.foundation_name }} projects are open to participation by anyone subject to the governance each project has adopted. If you are looking for a way to contribute to a project, many {{ site.foundation_name }} projects maintain a list of issues that are suited for first-time contributors on [CLOTributor](https://clotributor.dev/search?foundation={{ site.clotributor_name }}).
+## Foundation-Hosted Projects
 
-Below are the {{ site.project_types | map: 'plural' |  array_to_sentence_string }} supported by the TAC, listed by [project stage]({% link process/lifecycle.md %})
+The PyTorch Foundation seeks to accelerate collaboration,
+innovation and adoption of critical AI technologies.
 
-{%- include projectlist.html -%}
+Click a project logo to learn about the project and how
+to get involved.
 
-## {{ site.foundation_name }} Landscape
+<iframe
+  title="PyTorch Foundation-hosted projects"
+  src="https://landscape.pytorch.org/embed/embed.html?key=pytorch-projects--foundation&classify=category&headers=false&category-header=false&category-in-subcategory=false&item-name=false&item-modal=false&size=lg&style=clean&bg-color=%23ffffff&fg-color=%23000000&items-alignment=left"
+  width="100%"
+  height="500"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
 
-There are many more related open source projects than what is hosted at {{ site.foundation_name }}; check out the list and add any we are missing at the [{{ site.foundation_name }} Landscape]({{ site.landscape_url }})
+[Explore Foundation-Hosted Projects](https://pytorch.org/projects/)
+
+## Join the PyTorch Ecosystem
+
+Projects seeking to join the PyTorch Foundation Ecosystem
+can apply through the Ecosystem application process.
+
+Review the expectations before applying, complete the
+application form and follow your issue for questions
+and updates from the Ecosystem Working Group.
+
+- [Read the Ecosystem review process](https://github.com/pytorch-fdn/tac/blob/main/docs/governance/PyTorch_Ecosystem_Process.md)
+- [Apply to the Ecosystem](https://github.com/pytorch-fdn/ecosystem/issues/new?template=application.yml)
+- [Learn how applications are reviewed](https://github.com/pytorch-fdn/ecosystem#how-applications-are-reviewed)
+- [Track applications](https://github.com/orgs/pytorch-fdn/projects/6/views/1)
+
+## PyTorch Landscape
+
+Explore the wider PyTorch ecosystem of projects and tools.
+
+[Explore the full PyTorch Landscape](https://landscape.pytorch.org/)
