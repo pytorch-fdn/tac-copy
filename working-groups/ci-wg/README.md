@@ -1,3 +1,9 @@
+---
+title: "CI Working Group"
+parent: "Working Groups"
+nav_order: 2
+---
+
 # PyTorch CI Working Group 
 
 ## Overview
