@@ -1,9 +1,12 @@
-title: Academy Software Foundation TAC
-description: Materials and processes for the Academy Software Foundation TAC
-logo: "https://artwork.aswf.io/other/aswf/logo/aqua/aswf-logo-aqua.svg"
+title: PyTorch Foundation TAC
+description: Materials and processes for the PyTorch Foundation Technical Advisory Council
+logo: "/PyTorchFLogo_Horiz_fullColor.svg"
 theme: just-the-docs
-repository: AcademySoftwareFoundation/tac
-url: "https://tac.aswf.io"
+repository: pytorch-fdn/tac-copy
+
+# Working-copy GitHub Pages address
+url: "https://pytorch-fdn.github.io"
+baseurl: "/tac-copy"
 
 exclude: [
   "README.md",
@@ -21,66 +24,65 @@ exclude: [
 back_to_top: true
 back_to_top_text: "Back to top"
 
-gh_edit_link: true # show or hide edit this page link
+gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/AcademySoftwareFoundation/tac" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_repository: "https://github.com/pytorch-fdn/tac-copy"
+gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
 # Various URLs used across the site
-landscape_url: 'https://landscape.aswf.io'
-landscape_project_embed_uri: 'embed/embed.html?base-path=&classify=category&key=aswf-projects&headers=true&category-header=false&category-in-subcategory=false&title-uppercase=false&title-alignment=left&title-font-family=sans-serif&title-font-size=24&style=clean&bg-color=%23ffffff&fg-color=%23000000&item-modal=false&item-name=false&size=lg&items-alignment=left&items-spacing=0&iframe-resizer=true'
-calendar_url: 'https://zoom-lfx.platform.linuxfoundation.org/meetings/aswf'
-slack_url: 'https://slack.aswf.io'
-directed_fund_charter_url: 'https://charter.aswf.io'
-tac_issues_url: 'https://github.com/AcademySoftwareFoundation/tac/issues/new?template=01-tac-agenda.yml'
-helpdesk_url: "https://servicedesk.aswf.io"
-mailing_list_url: "https://lists.aswf.io"
-wiki_url: "https://wiki.aswf.io"
-lfx_insights_url: "https://insights.linuxfoundation.org/collection/details/academy-software-foundation"
-tac_mailing_list_url: "https://lists.aswf.io/g/tac"
-tac_mailing_list_email: tac@lists.aswf.io
-tac_private_mailing_list_email: tac-private@lists.aswf.io
-leads_mailing_list_email: technical-project-leads@lists.aswf.io
-website_url: "https://aswf.io"
-blog_url: "https://aswf.io/blog"
-tac_lfx_meeting_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aswf?view=list&projects=aswf
-lfscanning_repo_url: https://github.com/lfscanning/spdx-aswf
-tac_member_list_url: https://www.aswf.io/about/technical-advisory-council
-tac_meeting_agenda_url: https://github.com/orgs/AcademySoftwareFoundation/projects/19
-lf_staff_list_url: https://www.aswf.io/about/staff/
-mission_statement_url: https://www.aswf.io/about/
-tac_agenda_url: https://github.com/orgs/AcademySoftwareFoundation/projects/19
-artwork_url: 'https://artwork.aswf.io'
-election_guidelines_url: 'https://github.com/AcademySoftwareFoundation/foundation/blob/main/elections.md'
+# Empty values need confirmed PyTorch destinations.
+landscape_url: ""
+landscape_project_embed_uri: ""
+calendar_url: ""
+slack_url: ""
+directed_fund_charter_url: ""
+tac_issues_url: "https://github.com/pytorch-fdn/tac/issues"
+helpdesk_url: ""
+mailing_list_url: ""
+wiki_url: ""
+lfx_insights_url: ""
+tac_mailing_list_url: ""
+tac_mailing_list_email: ""
+tac_private_mailing_list_email: ""
+leads_mailing_list_email: ""
+website_url: ""
+blog_url: ""
+tac_lfx_meeting_url: ""
+lfscanning_repo_url: ""
+tac_member_list_url: ""
+tac_meeting_agenda_url: ""
+lf_staff_list_url: ""
+mission_statement_url: ""
+tac_agenda_url: ""
+artwork_url: ""
+election_guidelines_url: ""
 
 # Foundation Settings
-foundation_name: "Academy Software Foundation"
-foundation_benefits: "motion picture and visual effects industries"
-clotributor_name: aswf
-membership_top_tier: 'Premier'
-vote_of_tac_committee_title: "Industry Representatives"
-vote_of_tac_committee_count: 3
-archived_lifecycle_stage: "Archived"
-tac_projects:
-  - "Graduated Stage Projects"
-  - "Long Term Working Groups"
-project_types:
-  - singular: "Project"
-    plural: "Projects"
-  - singular: "Working Group"
-    plural: "Working Groups"
+foundation_name: "PyTorch Foundation"
+foundation_benefits: ""
 
-aux_links:
-  "Need help or have a question? Contact us here":
-    - "https://servicedesk.aswf.io"
+# Integration identifier: confirm before enabling.
+clotributor_name: ""
+
+# Governance settings: populate from approved PyTorch documents.
+membership_top_tier: ""
+vote_of_tac_committee_title: ""
+vote_of_tac_committee_count: 0
+archived_lifecycle_stage: ""
+tac_projects: []
+project_types: []
+
+# Add a confirmed support destination later.
+aux_links: {}
+
 footer_content: Copyright &copy; The Linux Foundation&reg;. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our <a href="https://www.linuxfoundation.org/trademark-usage">Trademark Usage</a> page. Linux is a registered trademark of Linus Torvalds. <a href="https://www.linuxfoundation.org/privacy">Privacy Policy</a> and <a href="https://www.linuxfoundation.org/terms">Terms of Use</a>.
 
 readme_index:
   with_frontmatter: true
 
-ga_tracking: 360578303
-ga_tracking_anonymize_ip: true
+# ASWF analytics settings removed.
+# Add a PyTorch-owned tracking ID if required.
 
 kramdown:
   input: GFM
@@ -94,8 +96,6 @@ plugins:
   - jekyll-redirect-from
 
 mermaid:
-  # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "10.9.0"
 
 callouts:
