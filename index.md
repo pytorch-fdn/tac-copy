@@ -28,9 +28,9 @@ to get involved.
 
 <iframe
   title="PyTorch Foundation-hosted projects"
-  src="https://landscape.pytorch.org/embed/embed.html?key=pytorch-projects--foundation&classify=category&headers=false&category-header=false&category-in-subcategory=false&item-name=false&item-modal=false&size=lg&style=clean&bg-color=%23ffffff&fg-color=%23000000&items-alignment=left"
+  src="https://landscape.pytorch.org/embed/embed.html?key=pytorch-projects--foundation&classify=category&headers=false&category-header=false&category-in-subcategory=false&item-name=false&item-modal=false&size=xl&style=clean&bg-color=%23ffffff&fg-color=%23000000&items-alignment=left"
   width="100%"
-  height="160"
+  height="120"
   style="border: 0;"
   loading="lazy">
 </iframe>
