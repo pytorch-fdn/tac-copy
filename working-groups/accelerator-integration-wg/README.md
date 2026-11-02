@@ -1,3 +1,9 @@
+---
+title: "Accelerator Integration"
+parent: "Working Groups"
+nav_order: 1
+---
+
 # Accelerator Integration Working Group
 
 ## About
