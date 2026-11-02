@@ -1,4 +1,9 @@
-
+---
+title: "2026-09-15 TAC Meeting"
+parent: "2026"
+grand_parent: Meetings
+nav_order: 20260915
+---
 
 ## PyTorch Foundation
 
