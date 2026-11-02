@@ -1,3 +1,9 @@
+---
+title: "Ecosystem"
+parent: "Working Groups"
+nav_order: 3
+---
+
 # PyTorch Ecosystem Working Group
 
 ## Overview
