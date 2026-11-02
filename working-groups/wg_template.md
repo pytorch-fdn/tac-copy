@@ -1,3 +1,5 @@
+nav_exclude: true
+
 # PyTorch XXX Working Group (Template)
 
 ## Overview
