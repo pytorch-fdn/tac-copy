@@ -26,4 +26,4 @@ Some suggested best practices for the best practices guides:
   needs (such as projects having different requirements for the minimum number
   of reviewers approving a PR).
 - When projects approach something differently, it's helpful to point out
-  briefly how different projects do it
+  briefly how different projects do it.
